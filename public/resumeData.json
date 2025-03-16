@@ -135,7 +135,8 @@
     "portfolio": {
         "projects": [{
                 "title": "Store Locator",
-                "category": "Store Locator built with HTML, CSS, ReactJS",
+                "category":"Web Design",
+                "description": "Store Locator built with HTML, CSS, ReactJS",
                 "image": "StoreLocator.jpg",
                 "url": "https://store-locator-maps.netlify.app/"
             },
